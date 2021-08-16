@@ -33,8 +33,8 @@ You can make unlimited RDP anytime and anywhere, to be able to use this RDP you 
 
     ```
     User     : NAHID
-    Password : root
+    Password : 1234
     ```
-Please follow/star/fork in my project
-thx
+Please follow/star/fork in my project,
+Thanks
   
