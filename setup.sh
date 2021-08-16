@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "Setup loading" >&2
+printf "Installing RDP Be Patience..." >&2
 {
 sudo useradd -m NAHID
 sudo adduser NAHID sudo
