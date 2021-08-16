@@ -7,13 +7,13 @@ Create Free RDP Debian OS on Google Cloud unlimited
 
 ![Image of NAHID](https://raw.githubusercontent.com/smnahidemon/Google-Cloud-RDP/demo.png)
 
-# WARNING 
+## WARNING 
 Before using or making this RDP please follow all the steps below
 
-# NOTES
+## NOTES
 You can make unlimited RDP anytime and anywhere, to be able to use this RDP you have to follow this tutorial in order to function properly and working.
 
-# STEP BY STEP
+## STEP BY STEP
 * Open Browser
 * Click Link
 * Paste Code
@@ -29,7 +29,7 @@ You can make unlimited RDP anytime and anywhere, to be able to use this RDP you 
     ```
    click logo play & please follow next instructions
    
-# ROOT ACCESS
+## ROOT ACCESS
 
     ```
     User     : NAHID
